@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![eXAMPLE-aPP](https://github.com/hollrojm/encender-bombilla-flutter/blob/master/ejmlight.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
